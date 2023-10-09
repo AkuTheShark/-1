@@ -11,7 +11,7 @@ int main()
     cin >> u_num2;
     
     cout << "Среднее арифметическое введенных вами чисел: " << endl;
-    cout << (u_num1 * u_num2)/2 << endl;
+    cout << (u_num1 + u_num2)/2 << endl;
     
     return 0;
 }
